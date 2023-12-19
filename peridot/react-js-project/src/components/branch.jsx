@@ -1,6 +1,6 @@
 import React from 'react'
 
-const branch = () => {
+const Branch = () => {
   return (
     <div>
       <div className='text-white'>
@@ -21,4 +21,4 @@ const branch = () => {
   )
 }
 
-export default branch
+export default Branch
